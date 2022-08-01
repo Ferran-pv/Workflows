@@ -2,6 +2,9 @@
 
 I have all my code in private. Meanwhile I don't have a properly organized portfolio, I leave here some squemes (which inillitaly were for myself) that help to understant my skills and how I work. Hope you like it.
 
+If you have doubts about my technical experience don't hesitate and contact me: ferranpauls10@gmail.com - Linkedin: /ferranPV
+
+
 
 ## Teamwork
 
