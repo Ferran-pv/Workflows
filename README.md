@@ -15,4 +15,4 @@ If you have doubts about my technical experience don't hesitate and contact me: 
 
 # Skill map
 
-[SkillMap.pdf](https://github.com/Ferran-pv/Workflows/files/9230073/SkillMap.pdf)
+![0Skillmap](https://user-images.githubusercontent.com/28867326/182295772-55b13207-c0b4-4c43-a8b8-218f9d76beb4.png)
